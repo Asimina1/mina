@@ -1,5 +1,5 @@
 # RAF Cadets Quick Guide
 
-[LA98A1 Cadet Rilfe](LA98A1)
+[LA98A1 Cadet Rilfe](LA98A1.md)
 
 
